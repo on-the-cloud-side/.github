@@ -1,6 +1,10 @@
 # dbjdbj in the Clouds
 
+(almost) All the material in here is (c) dbj@dbj.org, CC BY SA 4.0
+
 ## Somehow Azure/C# slipped into the main focus
+
+![](UP1999ARCH+SCRUM2022.png)
 
 <!--
 
