@@ -1,6 +1,6 @@
 # dbjdbj in the Clouds
 
-## Somehow main focus got to be Azure/C# and such 
+## Somehow Azure/C# slipped into the main focus
 
 <!--
 
