@@ -2,10 +2,9 @@
 
 (almost) All the material in here is (c) dbj@dbj.org, CC BY SA 4.0
 
-## Somehow Azure/C# slipped into the main focus
-
 ![](UP1999ARCH+SCRUM2022.png)
 
+## Other than that, on the more mundane level, somehow Azure/C# slipped into the focus
 <!--
 
 **Here are some ideas to get you started:**
